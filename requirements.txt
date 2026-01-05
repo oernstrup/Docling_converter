@@ -1,3 +1,5 @@
 streamlit
 docling
 pillow
+transformers
+torch
