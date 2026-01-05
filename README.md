@@ -27,3 +27,16 @@ Alternative usage ( offline models) (Not sure it works)
 
 Image support 
 -  streamlit run '.\app3 - images ref.py'
+
+
+-----------------------
+
+
+Vision Support 
+- mkdir /blip-image-captioning-base
+- py .\download_blip.py
+- pip install -U huggingface_hub
+- pip install transformers -U
+
+
+
