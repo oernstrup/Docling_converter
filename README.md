@@ -39,4 +39,5 @@ Vision Support
 - pip install transformers -U
 
 
+<img width="958" height="514" alt="image" src="https://github.com/user-attachments/assets/acde782a-c464-4e14-83af-cabb58611cfe" />
 
